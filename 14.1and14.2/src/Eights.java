@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Eights extends CardCollection {
+
 	private Player one;
 	private Player two;
 	private hand drawPile;
